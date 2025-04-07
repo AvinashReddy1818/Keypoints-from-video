@@ -1,0 +1,26 @@
+# Core App
+streamlit
+pandas
+# Whisper for transcription
+openai-whisper
+torch  # Required for Whisper
+# Gemini API
+google-generativeai
+# NLP and Embeddings
+sentence-transformers
+transformers
+scikit-learn
+numpy
+# Fuzzy Matching
+fuzzywuzzy
+python-Levenshtein
+# Audio and Video
+ffmpeg-python
+# File Handling (Note: These are part of the Python standard library)
+os
+re
+tempfile
+subprocess
+base64
+datetime
+io
